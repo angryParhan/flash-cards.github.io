@@ -1,3 +1,3 @@
 # flash-cards.github.io
 
-link: 
+link: https://angryparhan.github.io/flash-cards.github.io/#/
